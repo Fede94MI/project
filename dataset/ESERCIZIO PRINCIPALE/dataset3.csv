@@ -1,0 +1,11 @@
+ID_Matr	Nome		Cognome	Un_Prod	Ruolo1	Ruolo2	Note
+01		Federico	Maugeri	Milano	Resp.		Formatore	"""Tutto ok"",""Nellanorma"""		
+02		Gianluca	Lucchesi	Milano	Add.Vend	-		In Formazione					
+03		Francesco	Villa		Roma		-		-		"'OK'"	
+04		Pippo		Franco	Catania	-		Olap		Olap		
+05		Gino				Torino	Magazziniere	-	Ok									
+06				Bove		Napoli	Addetto vendite	Tutor	"""In formazione"",""Da valutare"""
+07
+08		-		-		-		-		-		-
+09		Luca		Rossi		Palermo	""Da definire""	-	-
+10		-		Larocca	"Pippo"	Capo Magazzino	Regista	-
